@@ -34,8 +34,6 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
-Older tools may need to install the format library from
-```bash
-http://fmt.dev
-```
+Older tools may need to install the format library from http://fmt.dev
+
 Follow the web site instructions to install this library on your system.

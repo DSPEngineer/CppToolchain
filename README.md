@@ -36,6 +36,6 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 Older tools may need to install the format library from
 ```bash
-fmt.dev
+http://fmt.dev
 ```
 Follow the web site instructions to install this library on your system.
